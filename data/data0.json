@@ -1,0 +1,34 @@
+{
+  "Chick-Fil-A Orders": [
+    {
+      "Name": "Sofia",
+      "Order": "8 Nuggets",
+      "Latitude": 41.705669,
+      "Longitude": -86.247528,
+      "Mode": "Walk"
+    },
+    {
+      "Name": "Bella",
+      "Order": "12 Nuggets Meal",
+      "Latitude": 41.705402,
+      "Longitude": -85.235831,
+      "Mode": "Run"
+    },
+    {
+      "Name": "Santiago",
+      "Order": "Sandwich Meal",
+      "Latitude": 41.753510,
+      "Longitude": -86.213130,
+      "Mode": "Scooter"
+    },
+    
+    {
+      "Name": "Hugh",
+      "Order": "Waffle Fries (M)",
+      "Latitude": 41.697904,
+      "Longitude": -86.231130,
+      "Mode": "Bike"
+    }
+  ]
+}
+

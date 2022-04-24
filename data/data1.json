@@ -1,0 +1,26 @@
+{
+  "Chick-Fil-A Orders": [
+    {
+      "Name": "Gabe",
+      "Order": "Side Salad",
+      "Latitude": "41.696366",
+      "Longitude": "-86.232741",
+      "Mode": "Bike"
+    },
+    {
+      "Name": "Grace",
+      "Order": "12 Nuggets Meal",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Run"
+    },
+    {
+      "Name": "Meredith",
+      "Order": "Spicy Southwest Salad",
+      "Latitude": "41.753510",
+      "Longitude": "-86.111130",
+      "Mode": "Scooter"
+    }
+  ]
+}
+

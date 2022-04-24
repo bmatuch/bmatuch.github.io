@@ -1,0 +1,68 @@
+{
+  "Chick-Fil-A Orders": [
+    {
+      "Name": "Isabella",
+      "Order": "Market Salad",
+      "Latitude": "41.709397",
+      "Longitude": "-86.224611",
+      "Mode": "Scooter"
+    },
+    {
+      "Name": "Ryan",
+      "Order": "Grilled Chicken Sandwich Meal",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Run"
+    },
+    {
+      "Name": "Nick",
+      "Order": "8 Nuggets",
+      "Latitude": "41.695902",
+      "Longitude": "-86.242601",
+      "Mode": "Walk"
+    },
+    {
+      "Name": "Molly",
+      "Order": "Market Salad",
+      "Latitude": "41.696366",
+      "Longitude": "-86.232741",
+      "Mode": "Walk"
+    },
+    {
+      "Name": "Tim",
+      "Order": "Cobb Salad",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Walk"
+    },
+    {
+      "Name": "Maria",
+      "Order": "Lemonade",
+      "Latitude": "41.323510",
+      "Longitude": "-86.101130",
+      "Mode": "Scooter"
+    },
+    {
+      "Name": "Lucy",
+      "Order": "Spicy Deluxe Sandwich",
+      "Latitude": "41.796366",
+      "Longitude": "-86.232741",
+      "Mode": "Bike"
+    },
+    {
+      "Name": "Meghan",
+      "Order": "12 Nuggets Meal",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Walk"
+    },
+    {
+      "Name": "Maria",
+      "Order": "Iced Lemonade",
+      "Latitude": "41.753510",
+      "Longitude": "-86.111130",
+      "Mode": "Run"
+    }
+  ]
+}
+

@@ -1,0 +1,47 @@
+{
+  "Chick-Fil-A Orders": [
+    {
+      "Name": "Trevor",
+      "Order": "8 Nuggets",
+      "Latitude": "41.696366",
+      "Longitude": "-86.232741",
+      "Mode": "Bike"
+    },
+    {
+      "Name": "Caroline",
+      "Order": "Grilled Chicken Sandwich Meal",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Run"
+    },
+    {
+      "Name": "Micheal",
+      "Order": "Grilled Cool Wrap",
+      "Latitude": "41.753510",
+      "Longitude": "-86.111130",
+      "Mode": "Scooter"
+    },
+    {
+      "Name": "Lucy",
+      "Order": "Market Salad",
+      "Latitude": "41.696366",
+      "Longitude": "-86.232741",
+      "Mode": "Bike"
+    },
+    {
+      "Name": "Meghan",
+      "Order": "Spicy Deluxe Sandwich",
+      "Latitude": "41.704825",
+      "Longitude": "-86.233342",
+      "Mode": "Run"
+    },
+    {
+      "Name": "Maria",
+      "Order": "Lemonade",
+      "Latitude": "41.753510",
+      "Longitude": "-86.111130",
+      "Mode": "Scooter"
+    }
+  ]
+}
+
