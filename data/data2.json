@@ -9,7 +9,7 @@
     },
     {
       "Name": "Caroline",
-      "Order": "Grilled Chicken Sandwich Meal",
+      "Order": "Grilled Chicken",
       "Latitude": "41.704825",
       "Longitude": "-86.233342",
       "Mode": "Run"
@@ -37,7 +37,7 @@
     },
     {
       "Name": "Maria",
-      "Order": "Lemonade",
+      "Order": "Med. Lemonade",
       "Latitude": "41.753510",
       "Longitude": "-86.111130",
       "Mode": "Scooter"
