@@ -1,4 +1,5 @@
-ck-Fil-A Orders": [
+{
+  "Chick-Fil-A Orders": [
     {
       "Name": "Isabella",
       "Order": "Market Salad",
@@ -8,7 +9,7 @@ ck-Fil-A Orders": [
     },
     {
       "Name": "Ryan",
-      "Order": "Grilled Chicken",
+      "Order": "Grilled Chicken Sandwich Meal",
       "Latitude": "41.704825",
       "Longitude": "-86.233342",
       "Mode": "Run"
