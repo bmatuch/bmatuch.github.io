@@ -16,7 +16,7 @@
     },
     {
       "Name": "Micheal",
-      "Order": "Grilled Cool Wrap",
+      "Order": "Grilled Wrap",
       "Latitude": "41.753510",
       "Longitude": "-86.111130",
       "Mode": "Scooter"
@@ -30,7 +30,7 @@
     },
     {
       "Name": "Meghan",
-      "Order": "Spicy Deluxe Sandwich",
+      "Order": "Spicy Deluxe",
       "Latitude": "41.704825",
       "Longitude": "-86.233342",
       "Mode": "Run"
